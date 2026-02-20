@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "site": "cdlrn.ca",
+  "snippets": {},
+  "notes": {
+    "deployment_date": null,
+    "migration_note": "Initial setup. Add snippets to php/, js/, css/, or api/ folders and register them here."
+  }
+}
